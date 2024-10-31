@@ -1,0 +1,74 @@
+.nav{
+    display: inline-flex;
+    margin-top: 20px;
+}
+.button{
+    position: relative;
+    left: 600px;
+    list-style: none;
+    border: 2px solid black;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+.option{
+    position: relative;
+    left: 360px;
+    top: 70px;
+    font-weight:700;
+    font-size: 20px;
+}
+.score{
+    font-size: 80px;
+    position: relative;
+    left: 150px;
+    bottom: 100px;
+}
+.down{
+    position: relative;
+    top: 80px;
+    left: 80px;
+    font-size: x-large;
+    font-size: 20px;
+    font-weight: 500;
+}
+.imgahi{
+    position: relative;
+    left: 500px;
+    bottom: 100px;
+}
+.dice h4{
+    position: absolute;
+    left: 510px;
+    bottom: 150px;
+}
+.btn2{
+    position: relative;
+    left: 320px;
+    height: 40px;
+    width: 200px;
+}
+.btn3{
+    position: relative;
+    left: 120px;
+    top: 50px;
+    height: 40px;
+    width: 200px;
+    background-color: rgb(43, 43, 43);
+    color: aliceblue;
+    border-radius: 5px;
+}
+.black-button {
+    background-color: black;
+    color: white;
+    
+  }
+  
+  .white-button {
+    background-color: white;
+    color: black;
+
+  }
